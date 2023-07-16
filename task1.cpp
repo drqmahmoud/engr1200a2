@@ -24,3 +24,4 @@ int main() {
     cout << c << " with cipher key " << k << " is encrypted as: " << e << endl;
     return (0);
 }
+
